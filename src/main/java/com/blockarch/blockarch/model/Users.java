@@ -24,7 +24,7 @@ public class Users {
 
     private String password;
 
-    private Long phoneNumber;
+    private String phoneNumber;
 
     private String accountType;
 
@@ -42,7 +42,7 @@ public class Users {
                  String lastName,
                  String emailAddress,
                  String password,
-                 Long phoneNumber,
+                 String phoneNumber,
                  String accountType,
                  String companyName,
                  String jobRole,
